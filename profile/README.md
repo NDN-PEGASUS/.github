@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is the Pegasus Project
+Pegasus is currently under a peer-review process. Only a portion of the code is currently open-sourced for reproducing experimental results and referencing implementation details. Once Pegasus is accepted for publication, we will release all core code.
 
 <!--
 
