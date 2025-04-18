@@ -193,7 +193,7 @@ Go to the repository [NDN-DPDK](https://github.com/usnistgov/ndn-dpdk) and clone
 To compile and build:
 ```shell
 cd ndn-dpdk/
-git checkout 0c34e8
+git checkout 0c34e8b
 sudo pnpm install  # just for the first make
 make clean 
 NDNDPDK_MK_RELEASE=1 make 
