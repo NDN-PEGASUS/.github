@@ -23,7 +23,7 @@ Follow the instructions in the README file to determine the optimal parsable nam
 
 ## 2. Pegasus Switch
 
-Go to the repository [Pegasus-Switch](https://github.com/NDN-PEGASUS/Pegasus-Traffic) and clone it to the programmable switch.
+Go to the repository [Pegasus-Switch](https://github.com/NDN-PEGASUS/Pegasus-Switch) and clone it to the programmable switch.
 
 First, copy `pclndn.xml` and `types.xml` to `path/to/your/SDE/install/share/cli/xml`
 
