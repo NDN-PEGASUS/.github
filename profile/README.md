@@ -1,10 +1,30 @@
+<h1 align="center">Pegasus: A Practical High-Speed Cross-Platform NDN Forwarder</h1>
+
+<br />
+
+<div align="center">
+    
+[Xingguo Long](mailto:longxg@pcl.ac.cn)<sup>1,2,3</sup>, Kun Huang<sup>2</sup>, Rongwei Yang<sup>2</sup>, Qingguo Dai<sup>2</sup>, [Zhenyu Li](https://zhenyulee.github.io/)<sup>1</sup>
+
+<sup>1</sup> Institute of Computing Technology, Chinese Academy of Sciences
+
+<sup>2</sup> Pengcheng Laboratory 
+
+<sup>3</sup> University of Chinese Academy of Sciences
+
+<br />
+
+</div>
+
 # 📌 Overview
 
-**Pegasus** is currently under a peer-review process. Only a portion of the code is currently open-sourced for reproducing experimental results and referencing implementation details. Once Pegasus is accepted for publication, we will release all core code.
+<!-- **Pegasus** is currently under a peer-review process. Only a portion of the code is currently open-sourced for reproducing experimental results and referencing implementation details. Once Pegasus is accepted for publication, we will release all core code. -->
+
+**Pegasus** is a high-speed NDN forwarding system architecture that combines servers and programmable switches.
 
 # ⚙️ Prerequisites
 
-Reference Devices：
+Reference Devices:
 - **Programmable switch**: Edgecore DCS810 with SDE 9.10.0
 - **Servers**: Dell PowerEdge T640 with Ubuntu 22.04, DPDK 22.07.0 and ConnectX-5 MCX516A Ethernet adapter
 - **PC (Monitor)**: locate at the same LAN with programmable switch and servers
