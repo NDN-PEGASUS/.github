@@ -4,7 +4,7 @@
 
 <div align="center">
     
-[Xingguo Long](mailto:longxg@pcl.ac.cn)<sup>1,2,3</sup>, [Kun Huang](https://people.ucas.ac.cn/~huangkun)<sup>2</sup>, [Rongwei Yang](https://scholar.google.com/citations?&user=GH5nXuoAAAAJ)<sup>2</sup>, [Qingguo Dai](https://orcid.org/0009-0003-3828-1581)<sup>2</sup>, [Zhenyu Li](https://zhenyulee.github.io/)<sup>1</sup>
+[Xingguo Long](https://scholar.google.com/citations?&user=INQQd88AAAAJ)<sup>1,2,3</sup>, [Kun Huang](https://people.ucas.ac.cn/~huangkun)<sup>2</sup>, [Rongwei Yang](https://scholar.google.com/citations?&user=GH5nXuoAAAAJ)<sup>2</sup>, [Qingguo Dai](https://orcid.org/0009-0003-3828-1581)<sup>2</sup>, [Zhenyu Li](https://zhenyulee.github.io/)<sup>1</sup>
 
 <sup>1</sup> Institute of Computing Technology, Chinese Academy of Sciences
 
@@ -258,3 +258,20 @@ The procedures are the same as in the Pegasus testbed. Please refer to the [Cons
 After launching the visualization, open a browser on the PC and visit `127.0.0.1:5202` to monitor the consumer:
 
 ![](../images/baseline_consumer_monitor.png)
+
+# 📖 Citation
+
+If you find this Pegasus is helpful, please cite our paper: 
+
+```
+@article{long2025pegasus,
+  title={{Pegasus: A Practical High-Speed Cross-Platform NDN Forwarder}},
+  author={Long, Xingguo and Huang, Kun and Yang, Rongwei and Dai, Qingguo and Li, Zhenyu},
+  journal={Computer Networks},
+  year={2025}
+}
+```
+
+# 🤝 Acknowledgments
+
+[Pegasus-Server](https://github.com/NDN-PEGASUS/Pegasus-Server) is derived from [NDN-DPDK](https://github.com/usnistgov/ndn-dpdk), we appreciate their contributions to the NDN community.
