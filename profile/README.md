@@ -261,7 +261,7 @@ After launching the visualization, open a browser on the PC and visit `127.0.0.1
 
 # 📖 Citation
 
-If you find Pegasus is helpful, please cite our paper: 
+If you find Pegasus helpful, please cite our paper: 
 
 ```
 @article{long2025pegasus,
