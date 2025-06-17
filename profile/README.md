@@ -4,7 +4,7 @@
 
 <div align="center">
     
-[Xingguo Long](mailto:longxg@pcl.ac.cn)<sup>1,2,3</sup>, Kun Huang<sup>2</sup>, Rongwei Yang<sup>2</sup>, Qingguo Dai<sup>2</sup>, [Zhenyu Li](https://zhenyulee.github.io/)<sup>1</sup>
+[Xingguo Long](mailto:longxg@pcl.ac.cn)<sup>1,2,3</sup>, [Kun Huang](https://people.ucas.ac.cn/~huangkun)<sup>2</sup>, [Rongwei Yang](https://scholar.google.com/citations?&user=GH5nXuoAAAAJ)<sup>2</sup>, [Qingguo Dai](https://orcid.org/0009-0003-3828-1581)<sup>2</sup>, [Zhenyu Li](https://zhenyulee.github.io/)<sup>1</sup>
 
 <sup>1</sup> Institute of Computing Technology, Chinese Academy of Sciences
 
@@ -20,7 +20,9 @@
 
 <!-- **Pegasus** is currently under a peer-review process. Only a portion of the code is currently open-sourced for reproducing experimental results and referencing implementation details. Once Pegasus is accepted for publication, we will release all core code. -->
 
-**Pegasus** is a high-speed NDN forwarding system architecture that combines servers and programmable switches.
+**Pegasus** is a high-speed [Named Data Networking (NDN)](https://named-data.net/) forwarder that integrates both servers and programmable switches. It leverages programmable switches to handle high-throughput NDN traffic and servers to support the full NDN protocol stack. Additionally, Pegasus introduces a solution for processing variable-length NDN names within programmable switches, enabling high-speed forwarding of real-world NDN traffic.
+
+![](../images/Pegasus-framework.svg)
 
 # ⚙️ Prerequisites
 
