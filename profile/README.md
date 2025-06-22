@@ -12,6 +12,7 @@
 
 <sup>3</sup> University of Chinese Academy of Sciences
 
+### [Paper](https://authors.elsevier.com/sd/article/S1389-1286(25)00441-4)
 <br />
 
 </div>
@@ -261,7 +262,7 @@ After launching the visualization, open a browser on the PC and visit `127.0.0.1
 
 # 📖 Citation
 
-If you find Pegasus helpful, please cite our paper: 
+If you find Pegasus helpful, please cite our [paper](https://authors.elsevier.com/sd/article/S1389-1286(25)00441-4): 
 
 ```
 @article{long2025pegasus,
