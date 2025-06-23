@@ -12,7 +12,13 @@
 
 <sup>3</sup> University of Chinese Academy of Sciences
 
-### [Paper](https://authors.elsevier.com/sd/article/S1389-1286(25)00441-4)
+<p align="center">
+  <a href="https://authors.elsevier.com/sd/article/S1389-1286(25)00441-4">📜Paper</a> |
+  <a href="https://github.com/NDN-PEGASUS/Pegasus-Traffic">📊Pegasus-Traffic</a> |
+  <a href="https://github.com/NDN-PEGASUS/Pegasus-Switch">🔀Pegasus-Switch</a> |
+  <a href="https://github.com/NDN-PEGASUS/Pegasus-Server">🖥️Pegasus-Server</a> |
+</p>
+
 <br />
 
 </div>
